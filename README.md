@@ -42,9 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-<img width="691" height="976" alt="image" src="https://github.com/user-attachments/assets/1a045a7d-0faa-4047-8bc9-bf99d79920bc" />
-
-
+<img width="698" height="990" alt="image" src="https://github.com/user-attachments/assets/85edf395-659c-4dd3-8213-531e0140b52b" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
